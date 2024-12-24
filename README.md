@@ -1,3 +1,7 @@
+View the video demo here: https://drive.google.com/file/d/1HW7uQb1xJL6H9LdjJBE7t1f8LaJ0egs2/view
+
+
+
 Furthering the scope(assuming unbounded time):
 
 1) Contextual chatbot, automatically provides compliance suggestions
